@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4I2FC7sxQronrVqUPCHkHtVllcQoALtOeviWJspoWuY=",
+  "Source": "SecureAPI_JWT",
+  "BasePath": "_content/SecureAPI_JWT",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
